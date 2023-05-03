@@ -58,7 +58,7 @@ const LeftNav = () => {
           Advertise Developers <br/> 
           Terms Privacy Policy & Safety <br/> 
           How YouTube works <br/> 
-          Test new features
+          Test new feature
         </div>
       </div>
     </div>
