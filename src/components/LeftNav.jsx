@@ -52,13 +52,14 @@ const LeftNav = () => {
           );
         })}
         <hr className="my-5 border-white/[0.2]" />
-        <div className="text-white/[0.5] text-[12px]">
+        <div className="text-white/[0.5] text-[12px] font-bold">
           About Press Copyright <br/> 
           Contact us Creators <br/> 
           Advertise Developers <br/> 
           Terms Privacy Policy & Safety <br/> 
           How YouTube works <br/> 
-          Test new feature
+          Test new feature <br/>
+          © 2023 Google LLC
         </div>
       </div>
     </div>
